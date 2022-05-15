@@ -1,4 +1,4 @@
-# Herramientas Utiles
+# Herramientas Útiles
 Funciones que serán útiles en algún proyecto.
 
 Los paquetes utilizados no son míos solo no reinvento la rueda y creo una función que puede ser útil en un proyecto cercano. Dejo links directo de los paquetes o su documentación para facilitar la implementación en el código de los proyectos 
